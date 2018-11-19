@@ -1,4 +1,4 @@
-package javaPractice;
+package selfStudy.javaPractice;
 
 //import java.util.Scanner;
 //

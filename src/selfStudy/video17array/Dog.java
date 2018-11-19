@@ -1,4 +1,4 @@
-package video17array;
+package selfStudy.video17array;
 
 public class Dog 
 {

@@ -1,4 +1,4 @@
-package video16array;
+package selfStudy.video16array;
 
 public class RunChickenQ
 {

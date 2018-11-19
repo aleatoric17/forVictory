@@ -1,4 +1,4 @@
-package video17sort;
+package selfStudy.video17sort;
 
 class Bubble
 {
