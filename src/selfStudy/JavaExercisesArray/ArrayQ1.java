@@ -1,5 +1,7 @@
 package selfStudy.JavaExercisesArray;
 
+import java.util.Arrays;
+
 public class ArrayQ1 {
 
 	public static void main(String[] args) {
@@ -14,6 +16,8 @@ public class ArrayQ1 {
 					temp = array1[j];
 					array1[j] = array1[j+1];
 					array1[j+1]= temp;
+					
+					System.out.println(Arrays.toString(array1));
 				}	
 			}	
 		}
