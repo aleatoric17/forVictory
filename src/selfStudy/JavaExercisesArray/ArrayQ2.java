@@ -9,7 +9,7 @@ public class ArrayQ2 {
 		int array1[] = {6,12,-5,88,198,-93};
 		
 		int sum=0;
-		
+
 //		for(int i: array1)
 //			sum += i;
 		
