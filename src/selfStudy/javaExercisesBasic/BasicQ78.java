@@ -1,4 +1,4 @@
-package self.Study.javaExercisesBasic;
+package selfStudy.javaExercisesBasic;
 
 public class BasicQ78 {
 

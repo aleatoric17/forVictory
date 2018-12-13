@@ -1,4 +1,4 @@
-package selfStudy.JavaExercisesArray;
+package selfStudy.javaExercisesArray;
 
 public class ArrayQ5 {
 

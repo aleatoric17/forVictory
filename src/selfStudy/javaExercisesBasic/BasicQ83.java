@@ -1,4 +1,4 @@
-package self.Study.javaExercisesBasic;
+package selfStudy.javaExercisesBasic;
 
 import java.util.Arrays;
 
