@@ -39,12 +39,12 @@ public class Car {
 	public String toString() {
 		return "{Brand: " + this.brand + "; Model: "
 				+ this.model + "; Price: $" 
-				+ this.price;
+				+ this.price + "}";
 	}
 	
 	public String toDiscount(double percent) {
 		this.price = this.price*percent;
-		return "with " + percent + " discount...";
+		return "{Discount: " + percent*100 + "%" + " Price: " + this.price + "}";
 	}
 	
 	public int comparePriceTo(Car co) {
