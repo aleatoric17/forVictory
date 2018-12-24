@@ -15,7 +15,7 @@ public class CarObjects {
 		
 //		System.out.println(c01.comparePriceTo(c02));
 		
-		System.out.println(c01.toString());
+		System.out.println(c01);
 		
 		System.out.println(c02.toString());
 		

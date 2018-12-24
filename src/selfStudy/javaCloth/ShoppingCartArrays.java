@@ -72,7 +72,7 @@ public class ShoppingCartArrays {
 		p1 = new ArrayList<Cloth>(1);
 		
 		p1.add(0, new Cloth("F", "Off White", "S", "top", 600));
-		p1.add(1, new Cloth("M", "Off Blue", "S", "top", 600));
+		p1.add(1, new Cloth("M", "Supreme", "S", "top", 1800));
 //		p1.add(1, null);
 		
 		p1.add(2, new Cloth("Acne Studio", 450));
@@ -101,9 +101,7 @@ public class ShoppingCartArrays {
 		System.out.println(p1.toString());
 		
 		
-		
-
-		
+				
 	}
 
 }
