@@ -17,9 +17,12 @@ public class AmazonUserInterface {
 //		prop.load(input);
 
 		
-		RetrievePrice ob1 = new RetrievePrice();
+//		RetrievePrice ob1 = new RetrievePrice();
+//		
+//		ob1.loadPriceMap();
 		
-		ob1.loadPriceMap();
+		Book book1 = new Book("paperback", "weka");
+		
 		
 //		System.out.println(prop.stringPropertyNames());
 //		System.out.println(prop.keySet());

@@ -11,6 +11,16 @@ public class Cloth extends Item{
 		this.brand = brand;
 		this.size = size;
 		this.category = "cloth";
+		this.itemNo = this.generateItemNo();
+	}
+	
+	public String generateItemNo() {
+		return this.category + "-" + this.getBrand() + "-" + this.size;
+	}
+	
+	public int retreivePrice() {
+		//TODO write retreivePirce implementation 
+		return 0;
 	}
 	
 	public String getBrand() {
